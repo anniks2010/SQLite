@@ -1,0 +1,47 @@
+355,Albania
+376,Andorra
+43,Austria
+375,Belarus
+32,Belgium
+387,Bosnia
+359,Bulgaria
+385,Croatia
+357,Cyprus
+420,Czech Republic
+45,Denmark
+372,Estonia
+298,Faroe Islands
+358,Finland
+33,France
+995,Georgia
+49,Germany
+350,Gibraltar
+30,Greece
+36,Hungary
+354,Iceland
+353,Ireland
+39,Italy
+7,Kazakhstan
+371,Lativa
+423,Liechtenstein
+370,Lithuania
+352,Luxemburg
+356,Malta
+373,Moldova
+377,Monaco
+31,Netherlands
+47,Norway
+48,Poland
+351,Portugal
+40,Romania
+70,Russia
+378,San Marino
+381,Serbia
+421,Slovakia
+386,Slovenia
+34,Spain
+46,Sweden
+41,Switzerland
+90,Turkey
+380,Ukraine
+44,United Kingdom

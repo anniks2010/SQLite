@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SQLite</string>
+    <string name="code">&#8230;</string>
+    <string name="country">Enter country name &#8230;</string>
+    <string name="src">Search</string>
+    <string name="cl">Clear</string>
+</resources>
