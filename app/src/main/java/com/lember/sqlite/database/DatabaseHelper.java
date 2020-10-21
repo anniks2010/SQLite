@@ -26,6 +26,7 @@ public class DatabaseHelper extends SQLiteOpenHelper {
     public static final String[] COUNTRY_COLUMNS= new String[]{"code","country"};
 
     ///contracts table stuff
+
     public static final String CONTACTS_TABLE="contacts";
     public static final int ID_COLUMN=0;
     public static final int FIRST_COLUMN=1;
