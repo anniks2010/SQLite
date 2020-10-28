@@ -107,7 +107,7 @@ public class MainActivity extends AppCompatActivity {
         if(contacts.getContacts().size()==0){
             Snackbar.make(constraintLayout,"no contacts found",Snackbar.LENGTH_LONG).show();
         }else if (contacts.getContacts().size()==1){
-            Intent oneContact=new Intent(getApplicationContext(),ContactsActivity.class);
+            Intent oneContact=new Intent(getApplicationContext(),ContactActivity.class);
             oneContact.putExtra("contact",contacts.getContacts().get(0));
             startActivity(oneContact);
         }else{

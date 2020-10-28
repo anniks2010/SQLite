@@ -7,4 +7,17 @@
     <string name="shc">Show contacts</string>
     <string name="crt">Create contact</string>
     <string name="menu_search">Menu Search</string>
+    <string name="enr">Enter phone…</string>
+    <string name="ac">Area code:</string>
+    <string name="doe">Date of Entry:</string>
+    <string name="frt">Enter first name…</string>
+    <string name="lst">Enter last name…</string>
+    <string name="adr">Enter address…</string>
+    <string name="phn">Enter phone…</string>
+    <string name="eml">Enter email…</string>
+    <string name="ad">Add</string>
+    <string name="de">Delete</string>
+    <string name="inputEntry">This field needs to be filled!</string>
+    <string name="cle">Clear</string>
+    <string name="noContacts">No contacts found!</string>
 </resources>
